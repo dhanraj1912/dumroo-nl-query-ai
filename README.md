@@ -1,1 +1,0 @@
-# dumroo-nl-query-ai
