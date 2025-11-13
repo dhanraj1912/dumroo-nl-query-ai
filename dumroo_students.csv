@@ -1,0 +1,13 @@
+student_id,name,grade,class,homework_submitted,last_submission_date,upcoming_quiz_name,upcoming_quiz_date,last_quiz_score,last_quiz_date
+1,Asha Kumar,8,A,False,2025-11-05,Math Quiz 1,2025-11-20,78,2025-11-06
+2,Ravi Patel,8,A,True,2025-11-10,Science Quiz 1,2025-11-19,85,2025-11-08
+3,Sneha Reddy,8,B,False,2025-11-01,Math Quiz 1,2025-11-20,65,2025-11-05
+4,P. Venkatesh,7,A,True,2025-11-09,History Quiz,2025-11-24,92,2025-11-07
+5,Meera Iyer,7,B,False,2025-10-30,Geography Quiz,2025-11-26,74,2025-10-29
+6,Karan Singh,9,A,True,2025-11-11,Math Quiz 1,2025-11-20,88,2025-11-10
+7,Latha Nair,9,B,True,2025-11-12,Science Quiz 1,2025-11-19,90,2025-11-09
+8,Santhosh G,8,B,True,2025-11-07,History Quiz,2025-11-24,81,2025-11-02
+9,Divya Sharma,8,A,False,2025-11-03,Geography Quiz,2025-11-26,70,2025-11-01
+10,Ajay Kumar,7,A,True,2025-11-12,Science Quiz 1,2025-11-19,76,2025-11-11
+11,Priya Das,8,B,False,2025-11-04,Math Quiz 1,2025-11-20,69,2025-11-06
+12,Rohan Mehta,8,A,True,2025-11-10,History Quiz,2025-11-24,83,2025-11-08
